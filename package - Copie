@@ -1,0 +1,8 @@
+{
+  "name": "Saucisson",
+  "cozy-type": "static",
+  "cozy-displayName": "Saucisson",
+  "version": "1.0.0",
+  "description": "Your app's description",
+  "icon-path": "main_icon.png"
+}
